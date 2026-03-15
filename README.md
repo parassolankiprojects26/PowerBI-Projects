@@ -1,87 +1,87 @@
-~ Super Store Sales Analysis & Forecasting (Power BI Dashboard)
-Project Overview
+# Power BI Data Analysis Projects
 
-I created an interactive Power BI dashboard to analyze and visualize Super Store sales performance across different regions, categories, and customer segments.
+This repository contains **interactive Power BI dashboards** created for data analysis and visualization.
+The projects focus on understanding **sales performance, customer behavior, and business insights** using data.
 
-The dashboard helps identify key sales trends, profit performance, and customer behavior.
-Additionally, a 15-day sales forecasting model was created to predict future sales trends based on historical data.
+Tools used in these projects include **Power BI, data visualization techniques, and basic data analysis methods**.
 
-This project helped me strengthen my skills in data analysis, visualization, and business insight generation using Power BI.
+---
 
-# Tools & Skills Used
+# Project 1 – Superstore Sales Analysis & Forecasting
 
-Power BI
+## Overview
 
-Data Cleaning
+This project analyzes a **Superstore sales dataset** to understand overall business performance.
 
-Data Modeling
+The dashboard highlights important metrics such as **total sales, profit, quantity sold, and sales distribution across regions and categories**.
+Additionally, a **15-day sales forecasting analysis** was created to predict future sales trends based on historical data.
 
-Data Visualization
+## Key Insights
 
-DAX (Basic Measures)
+* Total Sales reached **1.6M**
+* Total Profit generated was around **175K**
+* **West region contributed the highest sales**
+* **Consumer segment generated the largest share of sales**
+* **Standard shipping mode was the most used delivery option**
+* Technology and office supplies categories performed strongly in sales
 
-Sales Forecasting
+## Forecasting Analysis
 
-Business Insight Generation
-
-# Steps Followed in This Project
-
-Data Cleaning and Transformation
-
-Data Modeling
-
-Creating Calculated Measures
-
-Building Interactive Visualizations
-
-Creating KPI Cards (Sales, Quantity, Profit)
-
-Sales Trend Analysis
-
-Sales Forecasting (15 Days)
-
-# Key Insights from the Dashboard
-
-Total Sales reached approximately 1.6M
-
-Total Quantity sold was around 22K units
-
-Total Profit generated was approximately 175K
-
-West region contributed the highest sales (33%)
-
-Consumer segment contributed nearly 48% of sales
-
-Standard class shipping mode generated the highest orders
-
-Technology and Office Supplies categories generated the highest revenue
-
-Phones and Chairs were among the top selling sub-categories
-
-# Sales Forecast (15-Day Prediction)
-
-Using historical sales data, a 15-day forecast was created to estimate future sales trends.
+A **15-day sales forecast** was created using historical order data to estimate upcoming sales trends.
 
 This helps businesses to:
 
-Plan inventory efficiently
+* Predict short-term sales demand
+* Plan inventory and supply chain
+* Improve sales planning
+* Support better business decisions
 
-Predict future demand
+## Features
 
-Improve supply chain planning
+* Sales performance overview
+* Region-wise sales distribution
+* Segment-based sales analysis
+* Category and sub-category sales comparison
+* Monthly sales and profit trends
+* **15-day sales forecasting**
 
-Make better business decisions
+---
 
-# Final Business Insight
+# Project 2 – Madhav Ecommerce Sales Analysis
 
-The analysis shows that focusing on high-performing regions and product categories can significantly improve sales performance.
+## Overview
 
-Businesses should focus on:
+This dashboard analyzes **Madhav Ecommerce sales data** to understand revenue trends, customer purchases, and product performance.
 
-Promoting Technology and Office Supply products
+The project demonstrates how data visualization can help businesses identify **top performing states, categories, and customers**.
 
-Targeting high-performing regions like the West
+## Key Insights
 
-Optimizing shipping methods for faster delivery
+* Total Sales Amount reached approximately **438K**
+* Total Profit generated was around **37K**
+* Total Quantity sold was about **5615 units**
+* **Maharashtra generated the highest sales**
+* **Cash on Delivery (COD) is the most preferred payment method**
+* **Printers and Bookcases generated the highest profit**
 
-Using sales forecasting for inventory planning
+## Features
+
+* Sales and profit performance overview
+* State-wise sales distribution
+* Payment mode analysis
+* Customer purchase analysis
+* Category and sub-category profit insights
+* Monthly profit trends
+
+---
+
+# Skills Demonstrated
+
+* Data Visualization
+* Dashboard Design
+* Sales Performance Analysis
+* Business Insight Generation
+* Data Interpretation
+* Basic Forecasting Analysis
+---
+
